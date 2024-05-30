@@ -11,7 +11,3 @@ I'm Mihir Yogi, a Final Year computer engineering student at Ganpat University.<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mihir-Yogi&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir-Yogi&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
